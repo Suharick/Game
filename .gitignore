@@ -2,4 +2,5 @@
 /venv/*
 /dist/*
 /build/*
+/game.spec
 /scripts/__pycache__/*
