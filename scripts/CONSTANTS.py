@@ -21,14 +21,14 @@ WIDTH_AREA = 515
 HEIGHT_AREA = 515
 
 #картинки
-BG = pygame.image.load("../media/bg.jpg")
-PINK = pygame.image.load("../media/pink.png")
-PURPLE = pygame.image.load("../media/purple.png")
-RED = pygame.image.load("../media/red.png")
-WHITE_AND_PINK = pygame.image.load("../media/white and pink.png")
-YELLOW = pygame.image.load("../media/yellow.png")
-BLACK = pygame.image.load("../media/black.png")
-GRAY = pygame.image.load("../media/gray.png")
+BG = pygame.image.load("media/bg.jpg")
+PINK = pygame.image.load("media/pink.png")
+PURPLE = pygame.image.load("media/purple.png")
+RED = pygame.image.load("media/red.png")
+WHITE_AND_PINK = pygame.image.load("media/white and pink.png")
+YELLOW = pygame.image.load("media/yellow.png")
+BLACK = pygame.image.load("media/black.png")
+GRAY = pygame.image.load("media/gray.png")
 
 #цвета
 RGB204 = (204,204,204)
@@ -50,4 +50,4 @@ rules9 = "которого хотите переместить цветок"
 rules10 = "Удачи!"
 
 #шрифты
-FONT = "../media/9202.otf"
+FONT = "media/9202.otf"

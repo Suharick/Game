@@ -2,3 +2,4 @@
 /venv/*
 /dist/*
 /build/*
+/scripts/__pycache__/*
